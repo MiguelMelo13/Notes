@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "0508378c8b7edae3",
+    "type": "split",
+    "children": [
+      {
+        "id": "216581232d8e1069",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da812fd78bb99dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b129483c8d3130f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "097a7f5ad54f8288",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43edd6c125ccaead",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43074a9e41d292cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ad8f9dd16bb3a38",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3cce12cc8c28cc2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e9344eb3ee78b2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86aaeb10a0747130",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b47cced8a7e5ffde",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85f435dc4d49a3fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d96290e169f1465",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "ada6fed976aa0e3e",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d52d91924b268dd6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "da812fd78bb99dbe",
+  "lastOpenFiles": [
+    "ault.pub",
+    "ault",
+    "UCs/CD/Teórica 1 - CD.md",
+    "README.md",
+    "UCs/CD/Teórica 2 - CD.md",
+    "UCs/IHM/Lab 5 - IHM.md",
+    "UCs/IHM/IHM.md",
+    "UCs/CD/Apontamentos Mini-Teste 1.md",
+    "UCs/CD/Computação Distribuída.md",
+    "TFC/Meetings - RH.md",
+    "TFC/Meetings - Pedro Alves.md",
+    "UCs/CD/Pasted image 20241008161102.png",
+    "UCs/CD/Teórica 4 - CD.md",
+    "UCs/CD/Teórica 3 - CD.md",
+    "UCs/Data Science/Teórica 5 - Data Science.md",
+    "UCs/CD/Teórica 5 - CD.md",
+    "UCs/Data Science/Data Science.md",
+    "UCs/CD/Projeto - CD.md",
+    "UCs/Engenharia de Software",
+    "UCs/IHM",
+    "UCs/Data Science/Teórica 4 - Data Science.md",
+    "UCs/Data Science",
+    "UCs/CD",
+    "TFC/TFC.md",
+    "[[[[[[[[[Teórica 1 - Data Science.md",
+    "UCs/Data Science/Teórica 3 - Data Science.md",
+    "UCs/Data Science/Teórica 1 - Data Science.md",
+    "Class Notes/Untitled",
+    "UCs/IHM/Lab 2 - IHM.md",
+    "UCs/Engenharia de Software/Lab 3 - Eng. Software.md",
+    "UCs/Engenharia de Software/Lab 2 - Eng. Software.md",
+    "UCs/Engenharia de Software/Engenharia de Software.md",
+    "UCs",
+    "Untitled.canvas",
+    "TFC",
+    "2024-09-16.md",
+    "Class Notes"
+  ]
+}
