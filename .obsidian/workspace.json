@@ -11,8 +11,11 @@
             "id": "da812fd78bb99dbe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
             }
           }
         ]
@@ -138,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -161,18 +164,20 @@
   },
   "active": "da812fd78bb99dbe",
   "lastOpenFiles": [
-    "UCs/CD/Projeto - CD.md",
+    "TFC/TFC.md",
+    "TFC/Meetings - Pedro Alves.md",
+    "TFC/Meetings - RH.md",
+    "UCs/CD/Computação Distribuída.md",
+    "UCs/CD/Apontamentos Mini-Teste 1.md",
+    "UCs/CD/Teórica 1 - CD.md",
+    "2024-10-12.md",
     "README.md",
+    "UCs/CD/Projeto - CD.md",
     "ault.pub",
     "ault",
-    "UCs/CD/Teórica 1 - CD.md",
     "UCs/CD/Teórica 2 - CD.md",
     "UCs/IHM/Lab 5 - IHM.md",
     "UCs/IHM/IHM.md",
-    "UCs/CD/Apontamentos Mini-Teste 1.md",
-    "UCs/CD/Computação Distribuída.md",
-    "TFC/Meetings - RH.md",
-    "TFC/Meetings - Pedro Alves.md",
     "UCs/CD/Pasted image 20241008161102.png",
     "UCs/CD/Teórica 4 - CD.md",
     "UCs/CD/Teórica 3 - CD.md",
@@ -184,7 +189,6 @@
     "UCs/Data Science/Teórica 4 - Data Science.md",
     "UCs/Data Science",
     "UCs/CD",
-    "TFC/TFC.md",
     "[[[[[[[[[Teórica 1 - Data Science.md",
     "UCs/Data Science/Teórica 3 - Data Science.md",
     "UCs/Data Science/Teórica 1 - Data Science.md",
