@@ -1,5 +1,8 @@
 [
   "obsidian-day-planner",
   "obsidian-git",
-  "github-sync"
+  "github-sync",
+  "obsidian-mind-map",
+  "editing-toolbar",
+  "dataview"
 ]
