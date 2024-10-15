@@ -4,5 +4,7 @@
   "github-sync",
   "obsidian-mind-map",
   "editing-toolbar",
-  "dataview"
+  "dataview",
+  "obsidian-latex-suite",
+  "auto-correct-capitals"
 ]
