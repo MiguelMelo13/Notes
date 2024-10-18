@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "UCs/IHM/Lab 2 - IHM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "UCs/IHM/Lab 2 - IHM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "UCs/IHM/Lab 2 - IHM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "UCs/IHM/Lab 2 - IHM.md"
               }
             }
           },
@@ -169,6 +169,10 @@
   },
   "active": "df00a7fa079cd561",
   "lastOpenFiles": [
+    "UCs/IHM/IHM.md",
+    "TFC/TFC.md",
+    "UCs/CD/Teóricas/Teórica 2 - CD.md",
+    "UCs/Data Science/Teóricas/Teórica 3 - Data Science.md",
     "README.md",
     "Laboratórios.md",
     "UCs/Engenharia de Software/Engenharia de Software.md",
@@ -190,11 +194,9 @@
     "UCs/CD/Teóricas",
     "TFC/Meetings - RH.md",
     "TFC/Meetings - Pedro Alves.md",
-    "TFC/TFC.md",
     "2024-10-15.md",
     "UCs/Data Science/Teóricas/Teórica 6 - Data Science.md",
     "UCs/CD/Teóricas/Teórica 3 - CD.md",
-    "UCs/CD/Teóricas/Teórica 2 - CD.md",
     "UCs/CD/Prints/Pasted image 20241014231021.png",
     "UCs/CD/Prints/Pasted image 20241014221917.png",
     "TFC/Prints",
@@ -209,8 +211,6 @@
     "UCs/CD/Teóricas/Teórica 1 - CD.md",
     "2024-10-12.md",
     "UCs/CD/Projeto - CD.md",
-    "UCs/IHM/Lab 5 - IHM.md",
-    "UCs/IHM/IHM.md",
     "UCs/CD/Pasted image 20241008161102.png",
     "Untitled.canvas"
   ]
