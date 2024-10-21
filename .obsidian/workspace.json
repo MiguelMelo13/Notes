@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UCs/IHM/Lab 2 - IHM.md",
+                "file": "UCs/Data Science/Teóricas/Teórica 4 - Data Science.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Teórica 4 - Data Science"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +68,18 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cce12cc8c28cc2f",
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UCs/IHM/Lab 2 - IHM.md",
+                "file": "UCs/Data Science/Teóricas/Teórica 4 - Data Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +103,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Teórica 4 - Data Science"
             }
           },
           {
@@ -102,10 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UCs/IHM/Lab 2 - IHM.md",
+                "file": "UCs/Data Science/Teóricas/Teórica 4 - Data Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Teórica 4 - Data Science"
             }
           },
           {
@@ -116,7 +130,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UCs/IHM/Lab 2 - IHM.md"
-              }
+                "file": "UCs/Data Science/Teóricas/Teórica 4 - Data Science.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Teórica 4 - Data Science"
             }
           },
           {
@@ -134,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "timeline",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           },
           {
@@ -142,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -169,10 +191,16 @@
   },
   "active": "df00a7fa079cd561",
   "lastOpenFiles": [
+    "UCs/Data Science/Teóricas/Teórica 3 - Data Science.md",
+    "UCs/Data Science/Data Science.md",
+    "UCs/Data Science/Teóricas/Teórica 4 - Data Science.md",
+    "UCs/Data Science/Teóricas/Teórica 2 - Data Science.md",
+    "UCs/Data Science/Teóricas/Teóricas - Data Science.md",
+    "UCs/Data Science/Teóricas/Teórica 1 - Data Science.md",
+    "UCs/IHM/Lab 2 - IHM.md",
     "UCs/IHM/IHM.md",
     "TFC/TFC.md",
     "UCs/CD/Teóricas/Teórica 2 - CD.md",
-    "UCs/Data Science/Teóricas/Teórica 3 - Data Science.md",
     "README.md",
     "Laboratórios.md",
     "UCs/Engenharia de Software/Engenharia de Software.md",
@@ -183,8 +211,6 @@
     "UCs/Engenharia de Software/Teóricas",
     "UCs/Data Science/Teóricas",
     "UCs/CD/Teóricas/Teóricas.md",
-    "UCs/Data Science/Teóricas/Teóricas - CD.md",
-    "UCs/Data Science/Data Science.md",
     "UCs/CD/Teóricas/Teóricas - CD.md",
     "UCs/Data Science/Laboratórios/Laboratórios - Data Science.md",
     "UCs/Data Science/Laboratórios",
@@ -207,10 +233,6 @@
     "UCs/CD/Prints/Pasted image 20241014224838.png",
     "UCs/CD/Prints/Pasted image 20241014223845.png",
     "UCs/CD/Prints/Pasted image 20241014223401.png",
-    "UCs/CD/Apontamentos Mini-Teste 1.md",
-    "UCs/CD/Teóricas/Teórica 1 - CD.md",
-    "2024-10-12.md",
-    "UCs/CD/Projeto - CD.md",
     "UCs/CD/Pasted image 20241008161102.png",
     "Untitled.canvas"
   ]

@@ -1,8 +1,10 @@
 ### Teóricas
 
-[[UCs/Data Science/Teóricas/Teóricas - CD]]
+[[Teóricas - Data Science]]
 
 ### Laboratórios
+
+[[Laboratórios - Data Science]]
 
 https://github.com/tgvp/DataScience
 

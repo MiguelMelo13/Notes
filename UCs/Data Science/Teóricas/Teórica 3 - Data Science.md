@@ -1,4 +1,6 @@
-### Estrutura restangular
+
+
+### #EstruturaRetangular 
 
 CSV em que se estabelecem relações entre linhas e colunas.
 
@@ -6,38 +8,20 @@ Linha com valores quantitativos ou qualitativos referentes à característica da
 
 Structure: Rectangular data is **like a spreadsheet or a table in a database**. It's organized into rows and columns, where each row represents a single entity (like a person, transaction, or event), and each column represents a specific piece of information (like name, date, amount).
 
----
-
-### Histograma
-
-Gráfico de barras em que é representada a distribuição de valores. Podemos identificar a curva normal e a moda facilmente.
+Apresentam um elevado grau de consistência porque cada coluna contém dados do mesmo tipo determinado pela variável. São também fáceis de manipular com código, operações de filtragem, ordenação e agregação são simples de executar. São estruturas interoperaveis uma vez que existem muitos softwares com funcionalidades preparadas para análise.
 
 ---
 
-### Outliers
+### #SemiEstruturas
 
-Estudo estatistico de eventos raros → Estudo de outliers
-
-Definition of outliers. An outlier is **an observation that lies an abnormal distance from other values in a random sample from a population**. Este valor “estraga” os cálculos de média tornando os valores calculados pouco fiáveis e pouco representativos da realidade.
-
-Classificação de outliers através de métodos estatísticos que podem ser discutidos. (A ser falado na Teorica 4 ou Teorica 5)
+Não seguem um esquema rígido mas contêm anotações que fornecem organização hierárquica. Por isso, ao analisar dados semi-estruturados, o código tem que ser adaptado ao esquema de anotação que foi usado no conjunto de dados específico.
+Por não haver uma estrutura rígida, a flexibilidade destas semiestruturas permite níveis diferentes de profundidade e complexidade na análise.
 
 ---
 
-### Missing Values
+### #NaoEstruturados
 
-Inputation missing value através de fórmulas matemáticas para preencher campos em branco através de comparação com entidades que se assemelham à que tem o campo vazio ou de valor errado.
-
----
-
-### Scatterplot
-
-Após serem produzidas as variáveis dependente e independente, os pontos são representados num gráfico. Podem ser tiradas duas conclusões, uma relação de linearidade entre os dados (y=mx+b) ou, no caso de os dados estarem dispersos, não é possível identificar uma relação entre as variáveis.
-
-A distância dos data points à função extraída representam o valor de erro do modelo, chama-se residual.
+São exemplos, o texto livre, imagens e áudio. No processamento deste tipo de dados é normalmente imposta uma estrutura através de anotação ou é feita a implementação de scripts para que seja extraída infromação e sejam preenchidas estruturas retangulares.
+São, geralmente, gerados em grandes quantidades.
 
 ---
-
-### Aprendizagem estatística
-
-VER PDF ANEXADO
