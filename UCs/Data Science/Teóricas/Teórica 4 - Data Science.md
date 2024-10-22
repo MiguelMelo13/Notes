@@ -96,6 +96,17 @@ A assimetria avalia a simetria da distribuição, sendo:
 - Zero quando a distribuição é perfeitamente simétrica em torno da média.
 Ajuda a identificar se os dados estão mais concentrados à esquerda ou à direita da média, oferecendo uma visão sobre a forma da distribuição.
 
+###### #Curtose
+
+Medida estatistica que descreve o achatamento ou a altura de uma distirbuição em comparação com uma distribuição normal. Avalia a presença de caudas mais pesadas ou mais leves em relção à distribuição normal.
+
+$$
+\text{Curtose} = \frac{\sum_{i=1}^{n} (x_i - \bar{x})^4}{(n - 1) \sigma^4}
+$$
+- Excesso de Curtose positiva (leptocúrtica) - Caudas mais pesadas e um pico mais acentuado do que um distirbuição normal.
+- Excesso de Curtose negativa (paticúrtica) - Caudas mais leves e a distribuição é mais plana.
+- Excesso de Curtose zero (Mesocúrtica) - Distribuição é semelhante à distribuição normal.
+
 ---
 
 ### #Outliers
@@ -113,12 +124,38 @@ Classificação de outliers através de métodos estatísticos que podem ser dis
 Inputation missing value através de fórmulas matemáticas para preencher campos em branco através de comparação com entidades que se assemelham à que tem o campo vazio ou de valor errado.
 
 ---
+### #AnáliseBivariadaBásica
 
-### #Scatterplot
+
+Técnica estatística que examina a relação entre duas variáveis numéricas. Esta análise permite avaliar se existe alguma associação entre as variáveis e quão forte essa relação pode ser.
+
+##### #Scatterplot
 
 Após serem produzidas as variáveis dependente e independente, os pontos são representados num gráfico. Podem ser tiradas duas conclusões, uma relação de linearidade entre os dados (y=mx+b) ou, no caso de os dados estarem dispersos, não é possível identificar uma relação entre as variáveis.
 
 A distância dos data points à função extraída representam o valor de erro do modelo, chama-se residual.
+
+###### #CorrelaçãoDePearson
+
+Medida Quantitativa que avalia a força e direção da relação linear entre duas variáveis numéricas. Este coeficiente varia entre $-1$ e $1$.
+
+$r = -1$ -> Correlação linear negativa perfeita, à medida que uma variável aumenta, a outra diminui proporcionalmente.
+
+$r = 1$ -> Correlação linear negativa perfeita, à medida que uma variável aumenta, a outra aumenta proporcionalmente.
+
+$r = 0$ -> Não há relação linear entre as variáveis.
+
+$$
+r = \frac{\sum_{i=1}^{n} (X_i - \bar{X})(Y_i - \bar{Y})}{\sqrt{\sum_{i=1}^{n} (X_i - \bar{X})^2} \sqrt{\sum_{i=1}^{n} (Y_i - \bar{Y})^2}}
+$$
+
+Onde:
+
+$X_i$ e $Y_i$ são os valores individuais das variáveis $X$ e $Y$
+$\bar{X}$ e $\bar{Y}$ são as médias amostrais de $X$ e $Y$
+$n$ é o número de observações.
+
+A correlação de Pearson assume que a relação entre as variáveis é linear e que ambas as variáveis são contínuas e aproximadamente distribuídas de forma normal.
 
 ---
 
